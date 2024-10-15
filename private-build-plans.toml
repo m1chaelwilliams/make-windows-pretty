@@ -1,0 +1,18 @@
+[buildPlans.IosevkaCustom]
+family = "Iosevka Custom"
+spacing = "term"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+
+  [buildPlans.IosevkaCustom.variants]
+  inherits = "ss14"
+
+  [buildPlans.IosevkaCustom.ligations]
+  inherits = "haskell"
+
+[buildPlans.IosevkaCustom.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"

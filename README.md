@@ -24,3 +24,7 @@
 # Translucent Taskbar
 
 - [TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US)
+
+# Wallpaper
+
+- [Link](https://wallhaven.cc/w/76edpv)

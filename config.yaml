@@ -190,7 +190,7 @@ keybindings:
     # Redraw all windows.
 
     bindings: ["alt+shift+w"]
-  - commands: ["shell-exec wezterm"]
+  - commands: ["shell-exec wezterm-gui"]
     # Launch CMD terminal. Alternatively, use `shell-exec wt` or
 
     # Terminal and Git Bash respectively.
